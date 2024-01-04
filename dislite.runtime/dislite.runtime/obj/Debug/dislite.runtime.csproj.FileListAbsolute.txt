@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\dislite.runtime\dislite.runtime\bin\Debug\dislite.runtime.dll
+C:\Users\Admin\source\repos\dislite.runtime\dislite.runtime\bin\Debug\dislite.runtime.pdb
+C:\Users\Admin\source\repos\dislite.runtime\dislite.runtime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\dislite.runtime\dislite.runtime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\dislite.runtime\dislite.runtime\obj\Debug\dislite.runtime.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dislite.runtime\dislite.runtime\obj\Debug\dislite.runtime.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dislite.runtime\dislite.runtime\obj\Debug\dislite.runtime.csproj.CopyComplete
+C:\Users\Admin\source\repos\dislite.runtime\dislite.runtime\obj\Debug\dislite.runtime.dll
+C:\Users\Admin\source\repos\dislite.runtime\dislite.runtime\obj\Debug\dislite.runtime.pdb
